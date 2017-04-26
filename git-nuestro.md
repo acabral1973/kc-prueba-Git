@@ -1,3 +1,5 @@
+#El metodo que nuestro GitMaster nos enseño
+
 *Git* nuestro que estas en los repos
 Comprimidos sean tus *commits*
 Venga a nosotros tu *log*
